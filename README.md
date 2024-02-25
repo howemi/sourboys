@@ -1,9 +1,7 @@
-# Web Scraping Script for SourGG Website
+# SourBoys Stock Script
 
 This simple Python script allows you to scrape information from
-[sour.gg](https://sour.gg) to check the availability status of SourBoys. The
-script looks for specific HTML elements on the page to determine if a product
-is in stock or sold out.
+[sour.gg](https://sour.gg) to check the availability status of SourBoys.
 
 ## Prerequisites
 
