@@ -33,6 +33,4 @@ def scrape_website(url):
     else:
         print("Failed to retrieve the webpage. Status code:", response.status_code)
 
-# Replace 'your_website_url' with the actual URL of the webpage you want to scrape
-website_url = 'https://sour.gg'
-scrape_website(website_url)
+scrape_website('https://sour.gg')
